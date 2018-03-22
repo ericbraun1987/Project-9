@@ -1,0 +1,16 @@
+(lp0
+Vpoi
+p1
+aVexercised_stock_options
+p2
+aVdeferred_income
+p3
+aVshared_receipt_with_poi
+p4
+aVexpenses
+p5
+aVrestricted_stock
+p6
+aVfrom_poi_to_this_person
+p7
+a.
